@@ -58,3 +58,7 @@ Database: MySQL / MongoDB for storing medical records
 Authentication: JWT / OAuth
 PDF Generation: ReportLab / jsPDF
 Webcam Scanning: OpenCV or web-based QR code scanner
+
+<img width="739" height="632" alt="Picture1" src="https://github.com/user-attachments/assets/79f57e73-2984-4455-87a7-a65e31524bb5" />
+
+
